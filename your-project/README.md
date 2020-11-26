@@ -7,10 +7,7 @@
 
 ## Content
 - [Project Description](#project-description)
-- [Questions & Hypotheses](#questions-hypotheses)
 - [Dataset](#dataset)
-- [Workflow](#workflow)
-- [Organization](#organization)
 - [Links](#links)
 
 ## Project Description
@@ -20,8 +17,6 @@ This project takes all information on MTB helmets from Chain Reaction Cycle webs
 In order to gather data, web-scrapping was conducted on the Chain Reaction Cycles website to take information regarding MTB Helmets. The following variable were gathered from all MTB helmets sold on the CRC website: product description, sub-category, brand, price & visibility score (product positioning on website). Most variable information was extracted by the product descriptions. 
 
 ## Links
-Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
-
 [Repository](https://github.com/)
 [Repository](https://github.com/)
 [Tablaeu](https://public.tableau.com/profile/andre.santa.clara#!/vizhome/Wiggle/G_MTB_Search)  
