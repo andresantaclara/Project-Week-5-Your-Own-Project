@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Mountain Bike Helmet Marketplace Study using Chain Reaction Cycles for Fox Racing Brand
+*André Santa Clara*
 
-*[Your Cohort, Campus & Date]*
+*Data Analytics Full-time, BCN & 11-26-2020]*
 
 ## Content
 - [Project Description](#project-description)
@@ -14,25 +14,14 @@
 - [Links](#links)
 
 ## Project Description
-Write a short introduction to your project: 3-5 sentences about the context of your topic and why you chose it.
-
-## Questions & Hypotheses
-What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
+This project takes all information on MTB helmets from Chain Reaction Cycle website for the purpose of getting a better understanding of how Fox Racing is being represented in their e-commerce.
 
 ## Dataset
-What dataset (or datasets) did you use? What are the different sources you used (e.g. APIs, web scrapping, etc.)? Provide links to the data if available and describe the data briefly.
-
-## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
-
-## Organization
-How did you organize your work? Did you use any tools like a kanban board?
-
-What does your repository look like? Explain your folder and file structure.
+In order to gather data, web-scrapping was conducted on the Chain Reaction Cycles website to take information regarding MTB Helmets. The following variable were gathered from all MTB helmets sold on the CRC website: product description, sub-category, brand, price & visibility score (product positioning on website). Most variable information was extracted by the product descriptions. 
 
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/)
+[Repository](https://github.com/)
+[Tablaeu](https://public.tableau.com/profile/andre.santa.clara#!/vizhome/Wiggle/G_MTB_Search)  
